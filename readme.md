@@ -1,5 +1,7 @@
 <!-- Main GIF -->
-<img src="https://miro.medium.com/v2/resize:fit:1024/1*YBLtpeLfLasuXW1C-XkAlA.png" height="60%">
+<div align="center">
+  <img  src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" height="60%">
+</div>
 <!-- Social Links Badges -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/omer-bin-habib/">
