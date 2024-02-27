@@ -41,7 +41,7 @@
   <div align="left">
     <ul>
       <li>🌍 Based in Karachi, Pakistan </li>
-      <li>💻 I am currently working as a Senior Software Engineer.</li>
+      <li>💻 I am currently working as Software Engineer.</li>
       <li>🌱 Graduated from SZABIST Karachi University.</li>
       <li>🚀 Passionate about exploring the world of code and creativity!</li>
       <li>💬 Ask me about LAMP, REST/GraphQL, PHP, and Git</li>
