@@ -1,6 +1,7 @@
 <!-- Main GIF -->
 <div align="center">
-  <img  src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" height="60%">
+  <img  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnd4dGlkaTYzNmV0M3BkMzg3N2JyM3o3bWhyenI0eHg0NnhiOG81MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.gif" height="60%">
+  
 </div>
 <!-- Social Links Badges -->
 <div id="badges" align="center">
