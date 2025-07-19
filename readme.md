@@ -82,7 +82,7 @@
 <br>
 <br>
 <div id="featured-projects">
-  <h2 align="left">Featured Projects 🚀</h2>
+  <h2 align="center">Featured Projects 🚀</h2>
   <div align="center">
     <h4>Apna Khata – Online Fruits and Vegetables Marketplace</h4>
     <p>Developed a robust backend for an e-commerce platform enabling seamless transactions and inventory management.</p>
