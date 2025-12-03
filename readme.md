@@ -65,7 +65,7 @@ instantly.
 **Link:** Streamlit app (https://sales-financial.streamlit.app/)[https://sales-financial.streamlit.app/]
 
 ### **[3. Pro-Forma Real Estate Investment Calculator](https://github.com/omerhabib62/pro-forma-investment-engine)**
-Investment calculator for modeling real estate quity, waterfalls, including IRR hurdles, MOIC tiers, and detailed cash-flow distribution.\
+Investment calculator for modeling real estate equity, waterfalls, including IRR hurdles, MOIC tiers, and detailed cash-flow distribution.\
 **Tech:** Python, Streamlit, Pandas.\
 **Impact:** Replaces static Excel models with a dynamic engine that instantly recalculates Waterfall distributions and IRR based on variable hold periods.
 **Link:** Streamlit app (https://pro-forma-investment-engine.streamlit.app/)[https://pro-forma-investment-engine.streamlit.app/]
