@@ -49,41 +49,48 @@ My production-ready toolkit for rapid deployment:
 
 ## 🏆 Featured Work
 
-### **1. API Starter (NestJS)**
+### **[1. Mercenary Starter API (NestJS)](https://github.com/omerhabib62/mercenary-api-starter)**
 
 A production‑grade boilerplate for rapid backend deployment.\
 **Architecture:** Rate-limited, Dockerized, Helmet-secured,
 Swagger-documented.\
 **Impact:** Saves 10+ hours of setup time on every new backend project.
 
-### **2. Sales Analytics Dashboard**
+### **[2. Sales Analytics Dashboard](https://github.com/omerhabib62/streamlit-financial-dashboard)**
 
 Automated Financial Reporting Pipeline.\
 **Tech:** Python, Streamlit, Pandas.\
 **Impact:** Converts raw CSV dumps into interactive P&L visualizations
 instantly.
+**Link:** Streamlit app (https://sales-financial.streamlit.app/)[https://sales-financial.streamlit.app/]
 
-### **4. Groops -- TikTok-meets-Patreon social platform backend**
+### **[3. Pro-Forma Real Estate Investment Calculator](https://github.com/omerhabib62/pro-forma-investment-engine)**
+Investment calculator for modeling real estate quity, waterfalls, including IRR hurdles, MOIC tiers, and detailed cash-flow distribution.\
+**Tech:** Python, Streamlit, Pandas.\
+**Impact:** Replaces static Excel models with a dynamic engine that instantly recalculates Waterfall distributions and IRR based on variable hold periods.
+**Link:** Streamlit app (https://pro-forma-investment-engine.streamlit.app/)[https://pro-forma-investment-engine.streamlit.app/]
+
+### **[4. Groops -- TikTok-meets-Patreon social platform backend]()**
 Groops is a creator-first social platform where communities can be monetized, nested into ecosystems, and enriched with both structured and freeform canvas posts, powered by role-based permissions and Stripe payments.\
 **Tech:** NestJS, Postgres, Redis, AWS CloudFront .
 
-### **5. MaidMe -- Maid Servicing Platform**
+### **[5. MaidMe -- Maid Servicing Platform]()**
 
 Real-time booking backend for Norwegian market.\
 **Tech:** Laravel, NestJS, Socket.io, Postgres.
 
-### **6. Apna Khata –- Online Fruits and Vegetables Marketplace**
+### **[6. Apna Khata –- Online Fruits and Vegetables Marketplace]()**
 
 Developed a robust backend for an e-commerce platform enabling\
 seamless transactions and inventory management.\
 **Tech:** Laravel, MySQL, AWS S3, Stripe
 
-### **7. Disgo – Streaming Rooms with Social Media Backend**
+### **[7. Disgo – Streaming Rooms with Social Media Backend]()**
 
 Built a scalable backend for real-time streaming and social media interactions using WebSockets. \
 **Tech:**  ExpressJS, Node.js, MongoDB, Socket.io
 
-### **8. Hubfiit – Fitness & Nutrition App Backend**
+### **[8. Hubfiit – Fitness & Nutrition App Backend]()**
 
 Created a backend for a fitness management app with food calorie tracking and nutrition support.\
 **Tech:**  Laravel, MySQL, Firebase Cloud, AWS S3, NestJS, Socket.io
