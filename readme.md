@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Omer Bin Habib
 
-### Senior Backend Engineer & Data Automation Specialist
+### Senior Engineer + Growth Architect · AI-Native Venture Builder · MSBA @ KSBL
 
-I build production-grade APIs, secure backends, and automated data
-pipelines.
+I build production-grade APIs, secure backends, and AI-native product systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omer-bin-habib/)
 [![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omer.habib62@gmail.com)
@@ -16,103 +15,107 @@ pipelines.
 
 ## 🚀 About Me
 
-I am a Senior Backend Engineer (5+ YOE) based in Karachi.
-I specialize in fixing broken backends, automating complex workflows,
-and building scalable APIs using **NestJS** and **Python**.
+I'm a Senior Engineer + Growth Architect (5+ YOE) based in Karachi.
+I bridge product strategy, market validation, and engineering execution across B2B SaaS — specializing in **NestJS**, **TypeScript**, **Python**, and LLM-integrated product systems.
 
 ### 🔭 I'm currently building:
 
-#### High-performance data pipelines and secure API architectures.
+#### Three B2B SaaS products as Independent Consultant — an AI mental-health platform (Spot), a creator monetization platform (Groops), and an agency code-intelligence engine (Audit-this-engine).
 
 ### ⚡ I specialize in:
 
-#### Backend Rescue, API Optimization, and Data Automation.
+#### Backend Architecture, AI/LLM Pipelines, Market Validation & Pricing Strategy, Post-Deploy Observability.
 
 ### 🎓 Education:
 
--   **MSBA** - In Progress (KSBL)
+-   **MSBA** - In Progress (KSBL, expected 2027)
 -   **BS Computer Science** - Completed in 2020 (SZABIST)
 
 ------------------------------------------------------------------------
 
 ## 🛠️ Toolkit
 
-My production-ready toolkit for rapid deployment:
+My production toolkit for AI-native B2B SaaS:
 
 ### **Category → Tech Stack**
 
--   **Backend Core**
--   **Data & Automation**
--   **Infrastructure**
+-   **Backend Core** → NestJS · Node.js · TypeScript · Laravel · Next.js
+-   **Data** → PostgreSQL · Redis · SQLite · Firebase (Cloud Messaging, Firestore) · pgvector · Weaviate / Pinecone
+-   **AI / LLM** → Claude API · OpenAI API · LangGraph · DSPy · RAG pipelines · Langfuse
+-   **Infrastructure** → AWS (EC2, RDS, S3) · Docker · GitHub Actions · Sentry · Prometheus / Grafana
 
 ------------------------------------------------------------------------
 
 ## 🏆 Featured Work
 
-### **[1. Mercenary Starter API (NestJS)](https://github.com/omerhabib62/mercenary-api-starter)**
+### **[1. TaskBreak — AI-Native Task Breakdown Assistant](https://github.com/omerhabib62/taskbreak)**
+
+Next.js + Supabase + Gemini agent that turns messy task descriptions into structured subtasks.\
+**Tech:** Next.js, React, TypeScript, Supabase (Auth + Postgres), Gemini API, Vercel, GitHub Actions (CI + scheduled health check).\
+**Impact:** End-to-end demo of agentic SDLC — from prompt to persisted subtasks to post-deploy monitoring.
+
+### **[2. Mercenary Starter API (NestJS)](https://github.com/omerhabib62/mercenary-api-starter)**
 
 A production‑grade boilerplate for rapid backend deployment.\
-**Architecture:** Rate-limited, Dockerized, Helmet-secured,
-Swagger-documented.\
+**Architecture:** Rate-limited, Dockerized, Helmet-secured, Swagger-documented.\
 **Impact:** Saves 10+ hours of setup time on every new backend project.
 
-### **[2. Sales Analytics Dashboard](https://github.com/omerhabib62/streamlit-financial-dashboard)**
+### **[3. Sales Analytics Dashboard](https://github.com/omerhabib62/streamlit-financial-dashboard)**
 
 Automated Financial Reporting Pipeline.\
 **Tech:** Python, Streamlit, Pandas.\
-**Impact:** Converts raw CSV dumps into interactive P&L visualizations
-instantly.
-**Link:** Streamlit app (https://sales-financial.streamlit.app/)[https://sales-financial.streamlit.app/]
+**Impact:** Converts raw CSV dumps into interactive P&L visualizations instantly.
+**Link:** [Streamlit app](https://sales-financial.streamlit.app/)
 
-### **[3. Pro-Forma Real Estate Investment Calculator](https://github.com/omerhabib62/pro-forma-investment-engine)**
+### **[4. Pro-Forma Real Estate Investment Calculator](https://github.com/omerhabib62/pro-forma-investment-engine)**
 Investment calculator for modeling real estate equity, waterfalls, including IRR hurdles, MOIC tiers, and detailed cash-flow distribution.\
 **Tech:** Python, Streamlit, Pandas.\
 **Impact:** Replaces static Excel models with a dynamic engine that instantly recalculates Waterfall distributions and IRR based on variable hold periods.
-**Link:** Streamlit app (https://pro-forma-investment-engine.streamlit.app/)[https://pro-forma-investment-engine.streamlit.app/]
+**Link:** [Streamlit app](https://pro-forma-investment-engine.streamlit.app/)
 
-### **[4. Groops -- TikTok-meets-Patreon social platform backend]()**
-Groops is a creator-first social platform where communities can be monetized, nested into ecosystems, and enriched with both structured and freeform canvas posts, powered by role-based permissions and Stripe payments.\
-**Tech:** NestJS, Postgres, Redis, AWS CloudFront .
+### **[5. Groops — Creator Monetization Platform (Backend)]()**
+Creator-first social platform where communities can be monetized, nested into ecosystems, and enriched with structured and freeform canvas posts. Role-based permissions, Stripe Connect payments, hybrid Postgres+Redis search cutting DB load by 90%.\
+**Tech:** NestJS, PostgreSQL, Redis, BullMQ, Stripe Connect, AWS CloudFront.
 
-### **[5. MaidMe -- Maid Servicing Platform]()**
+### **[6. MaidMe — Maid Servicing Platform]()**
 
 Real-time booking backend for Norwegian market.\
 **Tech:** Laravel, NestJS, Socket.io, Postgres.
 
-### **[6. Apna Khata –- Online Fruits and Vegetables Marketplace]()**
+### **[7. Apna Khata — Online Fruits and Vegetables Marketplace]()**
 
-Developed a robust backend for an e-commerce platform enabling\
-seamless transactions and inventory management.\
+Developed a robust backend for an e-commerce platform enabling seamless transactions and inventory management.\
 **Tech:** Laravel, MySQL, AWS S3, Stripe
 
-### **[7. Disgo – Streaming Rooms with Social Media Backend]()**
+### **[8. Disgo — Streaming Rooms with Social Media Backend]()**
 
-Built a scalable backend for real-time streaming and social media interactions using WebSockets. \
+Built a scalable backend for real-time streaming and social media interactions using WebSockets.\
 **Tech:**  ExpressJS, Node.js, MongoDB, Socket.io
 
-### **[8. Hubfiit – Fitness & Nutrition App Backend]()**
+### **[9. Hubfiit — Fitness & Nutrition App Backend]()**
 
-Created a backend for a fitness management app with food calorie tracking and nutrition support.\
-**Tech:**  Laravel, MySQL, Firebase Cloud, AWS S3, NestJS, Socket.io
-
-
-
+Backend for a fitness management app with food calorie tracking, nutrition support, and push notifications via Firebase Cloud Messaging.\
+**Tech:**  Laravel, MySQL, Firebase (Cloud Messaging, Firestore), AWS S3, NestJS, Socket.io
 
 
 ------------------------------------------------------------------------
 
 ## 💼 Professional Experience
 
-### **Software Engineer -- Blocship (May 2023 - Present)**
+### **Senior Engineer + Growth Architect — Independent Consultant (Jan 2026 – Present)**
 
-Developing scalable backend system for domains like e-commerce, fitness social media platforms, etc using Laravel, NestJS, and ExpressJS.
+Sole technical product analyst across three UK-based B2B SaaS products (Spot, Groops, Audit-this-engine). Covers validation, roadmap, requirements, delivery — bridging market research, pricing strategy, and engineering execution.
 
-### **Software Engineer -- Sybrid (April 2021 - April 2023)**
+### **Software Engineer — Blocship (May 2023 – Dec 2025)**
 
-Built secure, multilingual web applications, task management system and many more for international clients using PHP stack, LAMP.
+Developed scalable backend systems for e-commerce, fitness, and social media platforms using Laravel, NestJS, and ExpressJS. Optimized real-time commission engine for 10K+ users; drove API-first adoption and standardized engineering practices.
 
-### **Associate Developer – Tafsol Technologies (August 2020 – April 2021)**
-Developed a digital sports agency platform with e-store and admin panel features using Laravel and Bootstrap.
+### **Software Engineer — Sybrid (April 2021 – April 2023)**
+
+Built secure, multilingual web applications and task management systems for international clients using PHP stack (LAMP). Led requirements for multi-persona recruitment platforms with OWASP-aligned security workflows.
+
+### **Associate Developer — Tafsol Technologies (Sept 2020 – April 2021)**
+Developed custom web platforms with dynamic page builders and integrated payment gateways. Recognized as Employee of the Month (Oct 2020).
 
 
 ------------------------------------------------------------------------
@@ -128,7 +131,7 @@ Developed a digital sports agency platform with e-store and admin panel features
       <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=omerhabib62&compact&theme=vision-friendly-dark&show_icons=true" />
     </a>    
   </div>
-  
+
 
 <h2 align="left">Here are my Contributions <a href="https://media.giphy.com/media/f7Ox8bCtiirhtPXR1h/giphy.gif"></a> <img src="https://media.giphy.com/media/f7Ox8bCtiirhtPXR1h/giphy.gif" height="50px" width="50px"></h2>
 
