@@ -55,7 +55,7 @@ Next.js + Supabase + powered by Google Gemini and validated via strict Zod schem
 **Impact:** Dost AI is a next-generation, high-performance health, fitness, and nutrition tracking application built to replace manual data entry with natural language processing.
 
 
-### **[1. TaskBreak — AI-Native Task Breakdown Assistant](https://github.com/omerhabib62/taskbreak)**
+### **[2. TaskBreak — AI-Native Task Breakdown Assistant](https://github.com/omerhabib62/taskbreak)**
 
 Next.js + Supabase + Gemini agent that turns messy task descriptions into structured subtasks.\
 **Tech:** Next.js, React, TypeScript, Supabase (Auth + Postgres), Gemini API, Vercel, GitHub Actions (CI + scheduled health check).\
