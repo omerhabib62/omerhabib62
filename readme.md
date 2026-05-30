@@ -48,51 +48,58 @@ My production toolkit for AI-native B2B SaaS:
 
 ## 🏆 Featured Work
 
+### **[1. DostAI — AI-Native Intelligent Fitness & Nutrition Tracker](https://github.com/omerhabib62/dost-fitness)**
+
+Next.js + Supabase + powered by Google Gemini and validated via strict Zod schema unions, Dost allows users to log their food and exercise naturally while automatically computing macros, dynamic zones, and tracking workout progression in real-time.\
+**Tech:** Next.js, React, TypeScript, Supabase (Auth + Postgres), Gemini API, Vercel.\
+**Impact:** Dost AI is a next-generation, high-performance health, fitness, and nutrition tracking application built to replace manual data entry with natural language processing.
+
+
 ### **[1. TaskBreak — AI-Native Task Breakdown Assistant](https://github.com/omerhabib62/taskbreak)**
 
 Next.js + Supabase + Gemini agent that turns messy task descriptions into structured subtasks.\
 **Tech:** Next.js, React, TypeScript, Supabase (Auth + Postgres), Gemini API, Vercel, GitHub Actions (CI + scheduled health check).\
 **Impact:** End-to-end demo of agentic SDLC — from prompt to persisted subtasks to post-deploy monitoring.
 
-### **[2. Mercenary Starter API (NestJS)](https://github.com/omerhabib62/mercenary-api-starter)**
+### **[3. Mercenary Starter API (NestJS)](https://github.com/omerhabib62/mercenary-api-starter)**
 
 A production‑grade boilerplate for rapid backend deployment.\
 **Architecture:** Rate-limited, Dockerized, Helmet-secured, Swagger-documented.\
 **Impact:** Saves 10+ hours of setup time on every new backend project.
 
-### **[3. Sales Analytics Dashboard](https://github.com/omerhabib62/streamlit-financial-dashboard)**
+### **[4. Sales Analytics Dashboard](https://github.com/omerhabib62/streamlit-financial-dashboard)**
 
 Automated Financial Reporting Pipeline.\
 **Tech:** Python, Streamlit, Pandas.\
 **Impact:** Converts raw CSV dumps into interactive P&L visualizations instantly.
 **Link:** [Streamlit app](https://sales-financial.streamlit.app/)
 
-### **[4. Pro-Forma Real Estate Investment Calculator](https://github.com/omerhabib62/pro-forma-investment-engine)**
+### **[5. Pro-Forma Real Estate Investment Calculator](https://github.com/omerhabib62/pro-forma-investment-engine)**
 Investment calculator for modeling real estate equity, waterfalls, including IRR hurdles, MOIC tiers, and detailed cash-flow distribution.\
 **Tech:** Python, Streamlit, Pandas.\
 **Impact:** Replaces static Excel models with a dynamic engine that instantly recalculates Waterfall distributions and IRR based on variable hold periods.
 **Link:** [Streamlit app](https://pro-forma-investment-engine.streamlit.app/)
 
-### **[5. Groops — Creator Monetization Platform (Backend)]()**
+### **[6. Groops — Creator Monetization Platform (Backend)]()**
 Creator-first social platform where communities can be monetized, nested into ecosystems, and enriched with structured and freeform canvas posts. Role-based permissions, Stripe Connect payments, hybrid Postgres+Redis search cutting DB load by 90%.\
 **Tech:** NestJS, PostgreSQL, Redis, BullMQ, Stripe Connect, AWS CloudFront.
 
-### **[6. MaidMe — Maid Servicing Platform]()**
+### **[7. MaidMe — Maid Servicing Platform]()**
 
 Real-time booking backend for Norwegian market.\
 **Tech:** Laravel, NestJS, Socket.io, Postgres.
 
-### **[7. Apna Khata — Online Fruits and Vegetables Marketplace]()**
+### **[8. Apna Khata — Online Fruits and Vegetables Marketplace]()**
 
 Developed a robust backend for an e-commerce platform enabling seamless transactions and inventory management.\
 **Tech:** Laravel, MySQL, AWS S3, Stripe
 
-### **[8. Disgo — Streaming Rooms with Social Media Backend]()**
+### **[9. Disgo — Streaming Rooms with Social Media Backend]()**
 
 Built a scalable backend for real-time streaming and social media interactions using WebSockets.\
 **Tech:**  ExpressJS, Node.js, MongoDB, Socket.io
 
-### **[9. Hubfiit — Fitness & Nutrition App Backend]()**
+### **[10. Hubfiit — Fitness & Nutrition App Backend]()**
 
 Backend for a fitness management app with food calorie tracking, nutrition support, and push notifications via Firebase Cloud Messaging.\
 **Tech:**  Laravel, MySQL, Firebase (Cloud Messaging, Firestore), AWS S3, NestJS, Socket.io
