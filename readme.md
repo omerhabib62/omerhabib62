@@ -52,7 +52,7 @@ My production toolkit for AI-native B2B SaaS:
 
 Next.js + Supabase + powered by Google Gemini and validated via strict Zod schema unions, Dost allows users to log their food and exercise naturally while automatically computing macros, dynamic zones, and tracking workout progression in real-time.\
 **Tech:** Next.js, React, TypeScript, Supabase (Auth + Postgres), Gemini API, Vercel.\
-**Impact:** Dost AI is a next-generation, high-performance health, fitness, and nutrition tracking application built to replace manual data entry with natural language processing.
+**Impact:** Dost AI is a next-generation, high-performance health, fitness, and nutrition tracking application built to replace manual data entry with natural language processing.  Link: [App on Vercel](https://dost-fitness.vercel.app/)
 
 
 ### **[2. TaskBreak — AI-Native Task Breakdown Assistant](https://github.com/omerhabib62/taskbreak)**
