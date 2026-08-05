@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Omer Bin Habib
 
-### Senior Engineer + Growth Architect · AI-Native Venture Builder · MSBA @ KSBL
+###  Full-Stack / Backend Engineer · AI-Native Systems · Python · TypeScript · MSBA @ KSBL
 
-I build production-grade APIs, secure backends, and AI-native product systems.
+Hands-on engineer available now. I build production-grade APIs, secure backends, and AI-native product systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omer-bin-habib/)
 [![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omer.habib62@gmail.com)
@@ -15,8 +15,8 @@ I build production-grade APIs, secure backends, and AI-native product systems.
 
 ## 🚀 About Me
 
-I'm a Senior Engineer + Growth Architect (5+ YOE) based in Karachi.
-I bridge product strategy, market validation, and engineering execution across B2B SaaS — specializing in **NestJS**, **TypeScript**, **Python**, and LLM-integrated product systems.
+I'm a Senior Software Engineer **(6+ YOE)** based in Karachi.
+I build and ship backend and AI-native systems end to end across B2B SaaS — specializing in **NestJS**, **TypeScript**, **Python**, and LLM-integrated product systems.
 
 ### 🔭 I'm currently building:
 
@@ -24,11 +24,11 @@ I bridge product strategy, market validation, and engineering execution across B
 
 ### ⚡ I specialize in:
 
-#### Backend Architecture, AI/LLM Pipelines, Market Validation & Pricing Strategy, Post-Deploy Observability.
+#### Backend Architecture, AI/LLM Pipelines, API Design & Integrations, Post-Deploy Observability.
 
 ### 🎓 Education:
 
--   **MSBA** - In Progress (KSBL, expected 2027)
+-   **MSBA** - In Progress (KSBL, expected Dec 2026)
 -   **BS Computer Science** - Completed in 2020 (SZABIST)
 
 ------------------------------------------------------------------------
@@ -80,28 +80,28 @@ Investment calculator for modeling real estate equity, waterfalls, including IRR
 **Impact:** Replaces static Excel models with a dynamic engine that instantly recalculates Waterfall distributions and IRR based on variable hold periods.
 **Link:** [Streamlit app](https://pro-forma-investment-engine.streamlit.app/)
 
-### **[6. Groops — Creator Monetization Platform (Backend)]()**
+### **6. Groops — Creator Monetization Platform (Backend)**
 Creator-first social platform where communities can be monetized, nested into ecosystems, and enriched with structured and freeform canvas posts. Role-based permissions, Stripe Connect payments, hybrid Postgres+Redis search cutting DB load by 90%.\
 **Tech:** NestJS, PostgreSQL, Redis, BullMQ, Stripe Connect, AWS CloudFront.
 
-### **[7. MaidMe — Maid Servicing Platform]()**
+### **7. MaidMe — Maid Servicing Platform**
 
 Real-time booking backend for Norwegian market.\
 **Tech:** Laravel, NestJS, Socket.io, Postgres.
 
-### **[8. Apna Khata — Online Fruits and Vegetables Marketplace]()**
+### **8. Apna Khata — Online Fruits and Vegetables Marketplace**
 
 Developed a robust backend for an e-commerce platform enabling seamless transactions and inventory management.\
 **Tech:** Laravel, MySQL, AWS S3, Stripe
 
-### **[9. Disgo — Streaming Rooms with Social Media Backend]()**
+### **9. Disgo — Streaming Rooms with Social Media Backend**
 
 Built a scalable backend for real-time streaming and social media interactions using WebSockets.\
 **Tech:**  ExpressJS, Node.js, MongoDB, Socket.io
 
-### **[10. Hubfiit — Fitness & Nutrition App Backend]()**
+### **10. Hubfiit — Fitness & Nutrition App Backend**
 
-Backend for a fitness management app with food calorie tracking, nutrition support, and push notifications via Firebase Cloud Messaging.\
+Backend for a fitness management app with food calorie tracking, nutrition support, and push notifications via Firebase Cloud Messaging.
 **Tech:**  Laravel, MySQL, Firebase (Cloud Messaging, Firestore), AWS S3, NestJS, Socket.io
 
 
@@ -109,15 +109,15 @@ Backend for a fitness management app with food calorie tracking, nutrition suppo
 
 ## 💼 Professional Experience
 
-### **Senior Engineer + Growth Architect — Independent Consultant (Jan 2026 – Present)**
+### **Senior Full-Stack / Backend Engineer — Independent Consultant (Jan 2026 – Present)**
 
-Sole technical product analyst across three UK-based B2B SaaS products (Spot, Groops, Audit-this-engine). Covers validation, roadmap, requirements, delivery — bridging market research, pricing strategy, and engineering execution.
+Owned architecture, backend, and delivery end-to-end across three UK-based B2B SaaS products (Spot, Groops, Audit-this-engine) — requirements, build, testing/UAT, deployment, and post-launch support.
 
 ### **Software Engineer — Blocship (May 2023 – Dec 2025)**
 
 Developed scalable backend systems for e-commerce, fitness, and social media platforms using Laravel, NestJS, and ExpressJS. Optimized real-time commission engine for 10K+ users; drove API-first adoption and standardized engineering practices.
 
-### **Software Engineer — Sybrid (April 2021 – April 2023)**
+### **Software Engineer — Sybrid (April 2021 – May 2023)**
 
 Built secure, multilingual web applications and task management systems for international clients using PHP stack (LAMP). Led requirements for multi-persona recruitment platforms with OWASP-aligned security workflows.
 
