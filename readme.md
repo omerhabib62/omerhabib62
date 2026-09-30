@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Omer Bin Habib
 
-###  Full-Stack / Backend Engineer · AI-Native Systems · Python · TypeScript · MSBA @ KSBL
+###  Software Engineer · Backend-focused · TypeScript · Python · MSBA @ KSBL
 
-Hands-on engineer available now. I build production-grade APIs, secure backends, and AI-native product systems.
+Backend engineer with six years of professional experience, mostly in Node.js, TypeScript and NestJS on PostgreSQL. Available now.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omer-bin-habib/)
 [![Email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omer.habib62@gmail.com)
@@ -15,16 +15,15 @@ Hands-on engineer available now. I build production-grade APIs, secure backends,
 
 ## 🚀 About Me
 
-I'm a Senior Software Engineer **(6+ YOE)** based in Karachi.
-I build and ship backend and AI-native systems end to end across B2B SaaS — specializing in **NestJS**, **TypeScript**, **Python**, and LLM-integrated product systems.
+I'm a software engineer with six years of professional experience, based in Karachi. I'm backend-focused, working mainly in **NestJS**, **TypeScript** and **Node.js** on **PostgreSQL**, with **Python (FastAPI)** alongside and LLM features built into backend systems.
 
-### 🔭 I'm currently building:
+### 🔭 I'm currently working on:
 
-#### Three B2B SaaS products as Independent Consultant — an AI mental-health platform (Spot), a creator monetization platform (Groops), and an agency code-intelligence engine (Audit-this-engine).
+#### Backend work for UK SaaS clients as an independent consultant since January 2026 — Spot (workplace wellbeing SaaS, deployed but not yet launched) and AgencyView (reporting platform) — plus continued work on Groops. I'm also building ALLDost, my own fitness and nutrition app.
 
-### ⚡ I specialize in:
+### ⚡ What I work on:
 
-#### Backend Architecture, AI/LLM Pipelines, API Design & Integrations, Post-Deploy Observability.
+#### Backend APIs and data (NestJS, PostgreSQL), reliability patterns (idempotent writes, retries with backoff, queue-based processing), and LLM/NLP features with validated output.
 
 ### 🎓 Education:
 
@@ -35,94 +34,89 @@ I build and ship backend and AI-native systems end to end across B2B SaaS — sp
 
 ## 🛠️ Toolkit
 
-My production toolkit for AI-native B2B SaaS:
-
 ### **Category → Tech Stack**
 
--   **Backend Core** → NestJS · Node.js · TypeScript · Laravel · Next.js
--   **Data** → PostgreSQL · Redis · SQLite · Firebase (Cloud Messaging, Firestore) · pgvector · Weaviate / Pinecone
--   **AI / LLM** → Claude API · OpenAI API · LangGraph · DSPy · RAG pipelines · Langfuse
--   **Infrastructure** → AWS (EC2, RDS, S3) · Docker · GitHub Actions · Sentry · Prometheus / Grafana
+-   **Backend** → NestJS · Node.js · TypeScript · Express · PHP (Laravel)
+-   **Data** → PostgreSQL · MySQL · Redis · pgvector
+-   **Python** → FastAPI · Pandas
+-   **AI / LLM** → Claude, OpenAI and Gemini APIs · LangGraph · Langfuse · pgvector hybrid retrieval
+-   **Frontend (working across)** → React · Next.js · Redux · Tailwind
+-   **Infrastructure** → Docker · GitHub Actions · Render · Vercel · Supabase · Sentry · AWS (Lambda, RDS, S3, EC2)
 
 ------------------------------------------------------------------------
 
 ## 🏆 Featured Work
 
-### **[1. DostAI — AI-Native Intelligent Fitness & Nutrition Tracker](https://github.com/omerhabib62/dost-fitness)**
+### **[1. ALLDost (DostAI) — Fitness & Nutrition Tracker](https://github.com/omerhabib62/dost-fitness)**
 
-Next.js + Supabase + powered by Google Gemini and validated via strict Zod schema unions, Dost allows users to log their food and exercise naturally while automatically computing macros, dynamic zones, and tracking workout progression in real-time.\
+Next.js + Supabase app that lets users log food and exercise in natural language, using the Gemini API with output validated against Zod schemas. A portfolio product with about five friends-and-family users.\
 **Tech:** Next.js, React, TypeScript, Supabase (Auth + Postgres), Gemini API, Vercel.\
-**Impact:** Dost AI is a next-generation, high-performance health, fitness, and nutrition tracking application built to replace manual data entry with natural language processing.  Link: [App on Vercel](https://dost-fitness.vercel.app/)
+**Link:** [App on Vercel](https://dost-fitness.vercel.app/)
 
 
-### **[2. TaskBreak — AI-Native Task Breakdown Assistant](https://github.com/omerhabib62/taskbreak)**
+### **[2. TaskBreak — Task Breakdown Assistant](https://github.com/omerhabib62/taskbreak)**
 
-Next.js + Supabase + Gemini agent that turns messy task descriptions into structured subtasks.\
-**Tech:** Next.js, React, TypeScript, Supabase (Auth + Postgres), Gemini API, Vercel, GitHub Actions (CI + scheduled health check).\
-**Impact:** End-to-end demo of agentic SDLC — from prompt to persisted subtasks to post-deploy monitoring.
+Next.js + Supabase + Gemini app that turns messy task descriptions into structured subtasks.\
+**Tech:** Next.js, React, TypeScript, Supabase (Auth + Postgres), Gemini API, Vercel, GitHub Actions.
 
 ### **[3. Mercenary Starter API (NestJS)](https://github.com/omerhabib62/mercenary-api-starter)**
 
-A production‑grade boilerplate for rapid backend deployment.\
-**Architecture:** Rate-limited, Dockerized, Helmet-secured, Swagger-documented.\
-**Impact:** Saves 10+ hours of setup time on every new backend project.
+A NestJS backend starter: rate-limited, Dockerized, Helmet-secured, Swagger-documented.
 
 ### **[4. Sales Analytics Dashboard](https://github.com/omerhabib62/streamlit-financial-dashboard)**
 
-Automated Financial Reporting Pipeline.\
+Turns raw CSV files into interactive profit-and-loss visualisations.\
 **Tech:** Python, Streamlit, Pandas.\
-**Impact:** Converts raw CSV dumps into interactive P&L visualizations instantly.
 **Link:** [Streamlit app](https://sales-financial.streamlit.app/)
 
 ### **[5. Pro-Forma Real Estate Investment Calculator](https://github.com/omerhabib62/pro-forma-investment-engine)**
-Investment calculator for modeling real estate equity, waterfalls, including IRR hurdles, MOIC tiers, and detailed cash-flow distribution.\
+Investment calculator for real estate equity waterfalls, including IRR hurdles, MOIC tiers and cash-flow distribution.\
 **Tech:** Python, Streamlit, Pandas.\
-**Impact:** Replaces static Excel models with a dynamic engine that instantly recalculates Waterfall distributions and IRR based on variable hold periods.
 **Link:** [Streamlit app](https://pro-forma-investment-engine.streamlit.app/)
 
-### **6. Groops — Creator Monetization Platform (Backend)**
-Creator-first social platform where communities can be monetized, nested into ecosystems, and enriched with structured and freeform canvas posts. Role-based permissions, Stripe Connect payments, hybrid Postgres+Redis search cutting DB load by 90%.\
-**Tech:** NestJS, PostgreSQL, Redis, BullMQ, Stripe Connect, AWS CloudFront.
+### **6. Groops — Platform for Organisations (Backend)**
+NestJS backend (with a Lumen service) built on Clean Architecture: 16 modules, 73 database migrations, 81 entities and 472 test suites. Started at Blocship and continued directly from January 2026.\
+**Tech:** NestJS, Lumen, PostgreSQL.
 
-### **7. MaidMe — Maid Servicing Platform**
+### **7. MaidMe — Home-Services Marketplace (Norway)**
 
-Real-time booking backend for Norwegian market.\
-**Tech:** Laravel, NestJS, Socket.io, Postgres.
+The live Laravel backend could not hold socket connections, so I added a separate NestJS socket server beside it for real-time booking management and in-app support chat.\
+**Tech:** Laravel, NestJS, Socket.io.
 
-### **8. Apna Khata — Online Fruits and Vegetables Marketplace**
+### **8. Apna Khata — App for Pakistan's Produce Markets**
 
-Developed a robust backend for an e-commerce platform enabling seamless transactions and inventory management.\
-**Tech:** Laravel, MySQL, AWS S3, Stripe
+An app where farmers sold fruit and vegetables to market traders. I built the transaction tracking.\
+**Tech:** Laravel, MySQL.
 
-### **9. Disgo — Streaming Rooms with Social Media Backend**
+### **9. Disgo — Streaming Rooms with a Social Platform**
 
-Built a scalable backend for real-time streaming and social media interactions using WebSockets.\
-**Tech:**  ExpressJS, Node.js, MongoDB, Socket.io
+Express backend for streaming rooms and a social platform.\
+**Tech:** Express, Node.js, MongoDB.
 
-### **10. Hubfiit — Fitness & Nutrition App Backend**
+### **10. Hubfiit — Fitness & Nutrition Tracking App**
 
-Backend for a fitness management app with food calorie tracking, nutrition support, and push notifications via Firebase Cloud Messaging.
-**Tech:**  Laravel, MySQL, Firebase (Cloud Messaging, Firestore), AWS S3, NestJS, Socket.io
+Backend for a fitness, calorie and nutrition tracking app.\
+**Tech:** Laravel.
 
 
 ------------------------------------------------------------------------
 
 ## 💼 Professional Experience
 
-### **Senior Full-Stack / Backend Engineer — Independent Consultant (Jan 2026 – Present)**
+### **Independent Consultant (Jan 2026 – Present)**
 
-Owned architecture, backend, and delivery end-to-end across three UK-based B2B SaaS products (Spot, Groops, Audit-this-engine) — requirements, build, testing/UAT, deployment, and post-launch support.
+Backend engineer for UK SaaS clients, plus client work in Denmark and Pakistan. Spot (NestJS, Stripe Connect billing, GDPR-driven data handling, with a Python FastAPI NLP service alongside) and AgencyView (PostgreSQL-driven reporting engine with a scheduled ingestion pipeline). Scope agreed in writing with clients in other time zones.
 
 ### **Software Engineer — Blocship (May 2023 – Dec 2025)**
 
-Developed scalable backend systems for e-commerce, fitness, and social media platforms using Laravel, NestJS, and ExpressJS. Optimized real-time commission engine for 10K+ users; drove API-first adoption and standardized engineering practices.
+Backend developer across six products (Laravel, NestJS, Express), in a team with frontend, product, design and QA. Built the points reporting a vehicle-parts distributor used to pay back its buyers; added a NestJS socket server to a live Laravel backend.
 
 ### **Software Engineer — Sybrid (April 2021 – May 2023)**
 
-Built secure, multilingual web applications and task management systems for international clients using PHP stack (LAMP). Led requirements for multi-persona recruitment platforms with OWASP-aligned security workflows.
+Built enterprise web applications for Japanese and Pakistani clients, including FiTE, a bilingual English/Japanese hiring portal with role-based access across four user groups and OWASP-aligned security (Laravel).
 
 ### **Associate Developer — Tafsol Technologies (Sept 2020 – April 2021)**
-Developed custom web platforms with dynamic page builders and integrated payment gateways. Recognized as Employee of the Month (Oct 2020).
+Built a digital sports agency platform with payment gateway integration, an e-store and an admin panel. Employee of the Month (Oct 2020).
 
 
 ------------------------------------------------------------------------
